@@ -60,7 +60,7 @@ Example of a collection file content:
 /Roms/NES/Final Fantasy Really (Hack) (USA).nes
 ```
 
-## License
+## 🧻 License
 
 ```
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
